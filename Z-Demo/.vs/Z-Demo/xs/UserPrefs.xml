@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E2F56F87-56CE-A812-3AE1-F4B3FEB9E267}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shader/ZDemo.shader">
+    <Files>
+      <File FileName="Assets/Shader/ZDemo.shader" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Z-Demo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Unity.CollabProxy.Editor PreferredExecutionTarget="84232c76-b05a-49b5-af0d-e606592c9e76" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
